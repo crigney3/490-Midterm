@@ -1,12 +1,10 @@
 `Initializing Security Documentation File "The Book"...`
 
-`Standard Protocol Does Not Allow Your Security Credentials (Level 0 (Guest)) to Access this Level 5`
-
-`Document.`
+`Standard Protocol Does Not Allow Your Security Credentials (Level 0 (Guest)) to Access this Level 5 Document.`
 
 `Please Contact Customer Support, Where Our friendly waittresses Can Assist you.`
 
-[`Contact a ~~Therapist~~ ~~Fast-Food Worker~~ Support Team Member Now!`](TheBook.md "Let's Get That Security Clearance Higher!!")
+[`Contact a {Therapist} {Fast-Food Worker} Support Team Member Now!`](TheBook.md "Let's Get That Security Clearance Higher!!")
 
 ---
 ---
