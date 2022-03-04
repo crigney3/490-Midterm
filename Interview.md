@@ -2,6 +2,11 @@
 
 > The following is transcribed footage of an interview with author Brenda Peynado. It was recorded on May 14th, 2021, by a Federal Department of Anomalous Containment Crisis Response Team (disguised as a news crew.) Unfortunately, on checking the recording, all of Peynado's dialogue could only be interpreted as a gentle crackling sound, similar to slowly crinkling aluminum foil. Peynado's dialogue, as well as the video, has been omitted to prevent further Linguistic Corruption of the transcription.
 
+## Foreword
+
+*The important thing to note here is that we're not super spies, or the illuminati, or even that well funded, especially our department. The Agents in this interview? Office staff who got hazard pay. Hell, they're only referred to as "Agents" because they're nerds and couldn't resist (no offense, you two. You did great on this.) So just... keep that in mind as you go.*
+- JF, Director
+
 ## Relevant History
 
 On April 27th, 2021, LA-0 vanished from its containment locker at the Department of MetaLinguistics' Anomaly Warehouse. At the same time, the DML was, were, and had always been running Exclusionary Site 91 to protect general Consensus Reality from the memetic effects of Sahroh Lake. After less than a month, a DML agent discovered the publication of *The Rock Eaters*, a collection of short stories which included *The Stones of Sorrow Lake*. This story had a remarkably accurate depiction of Sahroh Lake's anomalous effects. Agent 7 was sent to pose as an interviewer, with Agent 9 posing as a cameraman, in the hopes that Peynado knew about the location of LA-0. They brought a replica of The Book in case she did.

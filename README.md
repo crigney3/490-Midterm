@@ -11,6 +11,7 @@
 
 *Oh, and before you head on into the jungle of training documents ahead, take some deep breaths in and out. They can be a bit stuffy the first time you read them, and I mean that literally **and** figuratively. Once you get to the whole C-0 thing that keeps The Book from causing another Altered-Reality Event on the level of England's existence, you'll get why it's gotta be like that.*
 - JF, Director
+*P.S. Don't think that just because my tone here's friendly that you can just walk into my office like we're old pals. I'm the Director of this whole place, and the only reason this foreword and the other ones are so casual is cause of that damn Book and the crazy linguistic things we keep doing to stop it going anywhere.*
 
 ### Training Documents
 
@@ -20,6 +21,7 @@ The following information is required reading for all new hires to the Departmen
 2. [Lake Sahroh](SorrowLake.md)
 3. [Memetic Breaches](Interview.md)
 4. [Formatting, Audio, and You](FLStudioPro.md)
+5. [Linguistic and Format Corruption](A-109.md)
 
 Once you've completed comprehension of these documents, visit the MLD service desk to receive your badge and set up your direct deposit.
 

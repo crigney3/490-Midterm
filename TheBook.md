@@ -106,6 +106,20 @@ The next entry in LA-0 is a series of prayers written in cow's blood, which carb
 
 LA-0 was acquired by the Federal Department of Anomalous Containment in 2002, and the amount of department effort needed to contain it eventually led to the rise of the Department of MetaLinguistics. Since then, only a single "Truth" breach has occurred[^6], with several being initiated but prevented by [C-0](#containment-protocol-c-0) and the swift response of our containment teams.
 
+## Known Reality-Altering Affects of LA-0
+
+| Term(s) Written   | Result  | Notes |
+|:---------:|:-----:|:-----------------:|
+| 8 pages of mercantile documentation | Unclear | Unlikely to have had significant effects on consensus reality. The theory that all forms of mercantile trade and capitalism stem from these writings is being investigated, but is generally considered unlikely. |
+| 3 pages of prayers | Likely the individual praying received large amounts of wealth | Written in cows blood in time-appropriate Yiddish. |
+| "قبضتك الشيطانية علي لن تنجح" | Bolstered Nasir Shariq's ability to get rid of LA-0. | None. |
+| "England" | Created the island of England, the Saxon people, and a rich history involving them. Converted a significant portion of people into people of Saxon descent. | Assuming our tests are correct and the aforementioned result is accurate, this is considered the largest breach of consensus reality to ever occur. |
+| A series of incantations written in made-up runes | No result. | This indicates that while LA-0 is capable of creating new languages and linguistics, it does not respond to human-invented linguistics. Given how many languages it is known to respond to, this stands as the clearest evidence that all common human languages are derived from or influenced by LA-0's linguistic corruption. |
+| "Grant us unimaginable power" | Caused the two people who wrote this to disappear, along with LA-0, for seventy-four (74) years. Only LA-0 returned. Other results unknown. | Too little evidence to draw any conclusions. |
+| 23 pages of standard diary entries, signed "Paola Carrasco" | No result. | Corroborated by our own testing, this is evidence that LA-0 does not attempt to change things that are already true. |
+| "I wish there was something better than the dogshit mixers they make me use at work." | The spontaneous appearance of a copy of FL Studio Pro and modern laptop technology many years before either were invented. | Our department was unable to recover the laptop, as acquiring and containing LA-0 was of highest priority. The copy of FL Studio Pro, however, is contained. |
+| ***{REDACTED}*** | Inconclusive - do not perform this test again. | Should anyone need to know why this test cannot be performed, contact The Director. |
+
 ---
 
 [`Thank you for contacting our support team! Unfortunately, we are experiencing higher than average call volume. As we do not have hold music, we recommend you read a Book to pass the time.`](#the-book "It's just over in the warehouse, you know. Not far.")

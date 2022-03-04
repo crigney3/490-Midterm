@@ -2,6 +2,13 @@
 
 > The following is documentation on the singular "Truth" breach that occurred while Linguistic Anomaly 0 was present in MetaLinguistic Containment. Unfortunately, attempting to refer to this event consistently results in severe Linguistic Corruption. In this case, the document has been converted into the traditional formatting of the "SCP Wiki", an online creative writing project that focuses on a secret government-independent organization which "secures" and "contains" anomalous objects and creatures. Investigation into whether this community is aware of the Federal Department of Anomalous Containment is ongoing.
 
+### Foreword
+
+*Sahroh Lake's a doozy of a problem. There's nothing worse than an anomaly that was suddenly always your problem, not to mention the paperwork it was generating. When this thing popped into existence, I'd always had two secretaries instead of just one - could remember the second guy's name, family details, the works. Even weirder, now we've got a fully operational containment site in Michigan that didn't exist beforehand.*
+
+*Anyway, you're not here to listen to me complain about this stuff (the containment techs tell me that written complaints seem to reduce Linguistic Corruption, though, and this doc is busted to hell.) You're here to learn about what an uncontained linguistic/memetic anomaly can do to our mutual favorite concept of civilization. Or you would be, if the doc wasn't rewritten like a fanfiction. Try and learn something about Linguistic Corruption while you're at it, I guess.*
+- JF, Director
+
 ### Incorrect Statements in Corrupted Documentation
 
 - Psycopathy and Sociopathy provide no protection from Sahroh Lake's memetic effects.
